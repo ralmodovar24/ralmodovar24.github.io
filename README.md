@@ -5,8 +5,8 @@ Hello, as you already know, my name is Ricardo Almodovar, I am a Computer Scienc
 
 Here I leave some projects I've already worked on:
 
-[Mi Salón Hogar](misalonhogar.com)
-[Robot Makers](robotmakerspr.com/index.html)
+[Mi Salón Hogar](https://misalonhogar.com)
+[Robot Makers](https://robotmakerspr.com/index.html)
 
 These are the up and coming projects for me:
 
